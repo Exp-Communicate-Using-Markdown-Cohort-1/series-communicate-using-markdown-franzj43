@@ -5,3 +5,7 @@
 ```
 console.log('Hello World!')
 ```
+
+- [X] Task 1
+- [X] Task 2
+- [ ] Task 3 
